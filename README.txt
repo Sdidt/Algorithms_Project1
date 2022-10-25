@@ -1,6 +1,3 @@
-Some test cases are included in the TEST_FILES folder: bacterium.fna, snail.fna,
-wuhan.fasta and sea_squirt.fna. 
-
 The fastaparser module will be required to run this program. It can be installed by executing:
 
 pip install fastaparser
